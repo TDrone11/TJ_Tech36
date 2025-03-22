@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(206, 92, 51);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    text-align: center;
+}
+
+.links {
+    margin: auto;
+    background-color: white;
+    border-radius: 10px;
+    width: 500px;
+    height: 1000px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+h2 {
+    padding: 20px;
+}
+
+#yt {
+    width: 450px;
+    height: 150px;
+}
+
